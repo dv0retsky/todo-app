@@ -1,5 +1,5 @@
 <h2 align="center"> 
-🎯 Streamlit To-Do App — Multilingual + SQL 
+🎯 Streamlit To-Do App
 </h2> 
 
 <div align="center">
